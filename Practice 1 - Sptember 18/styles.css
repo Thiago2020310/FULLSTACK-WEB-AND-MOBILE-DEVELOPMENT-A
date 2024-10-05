@@ -1,0 +1,104 @@
+body{
+    background-color: #1f0e00fb;
+    /* background-attachment: scroll;
+    background-size: cover;
+    background-repeat: no-repeat;*/
+    margin: 0; 
+    
+}
+
+.nav-icon{
+    text-align: center;
+    width: 50px;
+    margin: 10px;
+}
+
+.hero-section{
+    text-align: center;
+}
+.hero-layout{
+    max-width: 100%;
+    
+}
+
+.hero-text h1{
+    font-size: 50px;
+    font-family: 'Bilbo',cursive;
+    font-weight: 400;
+    color: white;
+}
+
+.hero-text p{
+    font-family: 'Bilbo',cursive;
+    font-weight: 400;
+    font-size: 30px;
+    color: silver;
+}
+
+.core-section{
+    text-align: center;
+    position: static;
+}
+
+.core-table{
+    margin: 3% 10%;
+    max-width: 100%;
+
+}
+
+.core-headers{
+    color: #e3710070;
+    margin-bottom: 10%;
+    font-family: "Bilbo",cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.table-images{
+    border: solid;
+    border-color: #10000083;
+    border-radius: 7%;
+    width: 50%;
+}
+
+.core-row-title{
+    color: #b1b0ae;
+    font-family: "Bilbo",cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.core-data-description{
+    color: #b1b0ae;
+    padding: 1%;
+}
+
+.evil-section{
+    max-width: 100%;
+}
+
+.container-evil{
+    position: relative;
+    text-align:right;
+    color: #b1b0ae;
+}
+
+.evil-img{
+    max-width: 100%;
+}
+
+.evil-section-article{
+    bottom: 8px;
+    left: 16px;
+    position: absolute;
+    margin: 15px;
+}
+
+.evil-section-article h1{
+    font-size: 36px;
+}
+
+.evil-section-article p{
+    font-size: 18px;
+}
+

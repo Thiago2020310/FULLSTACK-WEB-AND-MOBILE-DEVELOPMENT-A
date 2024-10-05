@@ -1,0 +1,16 @@
+p {
+    color: red;
+}
+table{
+    border: 5px;
+    border-color: blue;
+    border-width: 5px;
+    border-style: dashed;
+    padding: 10px;
+    margin: 5px;
+}
+
+table td{
+    margin: 5px;
+    padding: 5px;
+}
